@@ -1,4 +1,4 @@
-from encode import SessionModificationCommand, ByteBuffer, XyzTimerUnit
+from python.encode import SessionModificationCommand, ByteBuffer, XyzTimerUnit
 
 
 class HexStringEncoder:
