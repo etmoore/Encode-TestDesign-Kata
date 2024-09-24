@@ -2,3 +2,5 @@
 *.iml
 .idea
 *.DotSettings.user
+.vscode
+.venv
